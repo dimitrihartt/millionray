@@ -6,7 +6,8 @@ typebotInitScript.innerHTML = `import Typebot from 'https://cdn.jsdelivr.net/npm
 Typebot.initBubble({
   typebot: "imobiliaria-0nozlkx",
   previewMessage: {
-    message: "Bem-vindo!",
+    message: "Olá! Quer comprar ou vender seu imóvel?",
+    autoShowDelay: 10000,
     avatarUrl: "https://www.millionray.com/assets/MillionRay-CqRFZ9h_.png",
   },
   theme: { button: { backgroundColor: "#128C7E", size: "large" } },
