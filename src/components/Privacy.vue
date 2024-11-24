@@ -3,102 +3,60 @@
 </script>
 
 <template>
-  <h1>Terms and Conditions</h1>
-    <p>Welcome to Millionray.com!</p>
-    <p>
-        These terms and conditions outline the rules and regulations for the use of Millionray.com's Website, located at 
-        <a href="https://www.millionray.com">https://www.millionray.com</a>.
-    </p>
-    <p>
-        By accessing this website, we assume you accept these terms and conditions. Do not continue to use Millionray.com 
-        if you do not agree to take all of the terms and conditions stated on this page. Our Terms and Conditions were 
-        created with the help of the Terms And Conditions Generator and the Terms &amp; Conditions Generator.
-    </p>
-    <h2>Cookies</h2>
-    <p>
-        We employ the use of cookies. By accessing Millionray.com, you agreed to use cookies in agreement with 
-        Millionray.com's <a href="#privacy-policy">Privacy Policy</a>.
-    </p>
-    <p>
-        Most interactive websites use cookies to let us retrieve the user’s details for each visit. Cookies are used 
-        by our website to enable the functionality of certain areas to make it easier for people visiting our website. 
-        Some of our affiliate/advertising partners may also use cookies.
-    </p>
-    <h2>License</h2>
-    <p>
-        The content on Millionray.com is provided on an “as-is” and “as-available” basis and is intended for non-commercial, 
-        informational purposes only, to educate and inform its website visitors about various topics.
-    </p>
-    <p>
-        A third-party person or company should never use any of the materials without written permission from the 
-        copyright and/or trademark holder. For questions about using any materials, please contact the copyright 
-        and/or trademark holder directly to request a licensed agreement.
-    </p>
-    <p>
-        By downloading any materials from Millionray.com, you agree to these Terms of Use and acknowledge that the 
-        materials you download could include technical, typographical, or photographic errors. Millionray.com does 
-        not warrant that any of the materials on its website are accurate, complete, or current.
-    </p>
-    <p>
-        The materials appearing on Millionray.com's website are not associated with or sponsored by the copyright 
-        and/or trademark holder unless explicitly stated.
-    </p>
-    <h2>Your Privacy</h2>
-    <p>Please read our <a href="#privacy-policy">Privacy Policy</a>.</p>
-    <h2>Reservation of Rights</h2>
-    <p>
-        We reserve the right to request that you remove all links or any particular link to our Website. You approve 
-        to immediately remove all links to our Website upon request. We also reserve the right to amend these terms 
-        and conditions and our linking policy at any time. By continuously linking to our Website, you agree to be 
-        bound to and follow these linking terms and conditions.
-    </p>
-    <h2>Removal of links from our website</h2>
-    <p>
-        If you find any link on our Website that is offensive for any reason, you are free to contact and inform us 
-        at any time. We will consider requests to remove links, but we are not obligated to do so or to respond to you 
-        directly.
-    </p>
-    <p>
-        We do not ensure that the information on this website is correct, we do not warrant its completeness or 
-        accuracy; nor do we promise to ensure that the website remains available or that the material on the website 
-        is kept up to date.
-    </p>
-    <h2>Links To Other Web Sites</h2>
-    <p>
-        Our Service may contain links to third-party websites or services that are not owned or controlled by Millionray.com.
-    </p>
-    <p>
-        Millionray.com has no control over, and assumes no responsibility for, the content, privacy policies, or 
-        practices of any third-party websites or services. You further acknowledge and agree that Millionray.com shall 
-        not be responsible or liable, directly or indirectly, for any damage or loss caused or alleged to be caused by 
-        or in connection with the use of or reliance on any such content, goods, or services available on or through any 
-        such websites or services.
-    </p>
-    <p>
-        We strongly advise you to read the terms and conditions and privacy policies of any third-party websites or 
-        services that you visit.
-    </p>
-    <h2>Disclaimer</h2>
-    <p>
-        To the maximum extent permitted by applicable law, we exclude all representations, warranties, and conditions 
-        relating to our website and the use of this website. Nothing in this disclaimer will:
-    </p>
-    <ul>
-        <li>Limit or exclude our or your liability for fraud or fraudulent misrepresentation;</li>
-        <li>Limit any of our or your liabilities in any way that is not permitted under applicable law; or</li>
-        <li>Exclude any of our or your liabilities that may not be excluded under applicable law.</li>
-    </ul>
-    <p>
-        The limitations and prohibitions of liability set in this Section and elsewhere in this disclaimer: (a) are 
-        subject to the preceding paragraph; and (b) govern all liabilities arising under the disclaimer, including 
-        liabilities arising in contract, in tort, and for breach of statutory duty.
-    </p>
-    <p>
-        As long as the website and the information and services on the website are provided free of charge, we will 
-        not be liable for any loss or damage of any nature.
-    </p>
-    <h2>Contact Us</h2>
-    <p>If you have any questions about these Terms, please contact us.</p>
+  Privacy Policy
+At Logo Wine, accessible from https://www.logo.wine, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by Logo Wine and how we use it.
+
+If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+
+General Data Protection Regulation (GDPR)
+We are a Data Controller of your information.
+
+Logo.wine legal basis for collecting and using the personal information described in this Privacy Policy depends on the Personal Information we collect and the specific context in which we collect the information:
+
+Logo.wine needs to perform a contract with you
+You have given Logo.wine permission to do so
+Processing your personal information is in Logo.wine legitimate interests
+Logo.wine needs to comply with the law
+Logo.wine will retain your personal information only for as long as is necessary for the purposes set out in this Privacy Policy. We will retain and use your information to the extent necessary to comply with our legal obligations, resolve disputes, and enforce our policies.
+
+If you are a resident of the European Economic Area (EEA), you have certain data protection rights. If you wish to be informed what Personal Information we hold about you and if you want it to be removed from our systems, please contact us. Our Privacy Policy was generated with the help of GDPR Privacy Policy Generator and the App Privacy Policy Generator.
+
+In certain circumstances, you have the following data protection rights:
+
+The right to access, update or to delete the information we have on you.
+The right of rectification.
+The right to object.
+The right of restriction.
+The right to data portability
+The right to withdraw consent
+Log Files
+Logo Wine follows a standard procedure of using log files. These files log visitors when they visit websites. All hosting companies do this and a part of hosting services' analytics. The information collected by log files include internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date and time stamp, referring/exit pages, and possibly the number of clicks. These are not linked to any information that is personally identifiable. The purpose of the information is for analyzing trends, administering the site, tracking users' movement on the website, and gathering demographic information.
+
+Cookies and Web Beacons
+Like any other website, Logo Wine uses 'cookies'. These cookies are used to store information including visitors' preferences, and the pages on the website that the visitor accessed or visited. The information is used to optimize the users' experience by customizing our web page content based on visitors' browser type and/or other information.
+
+Privacy Policies
+You may consult this list to find the Privacy Policy for each of the advertising partners of Logo Wine.
+
+Third-party ad servers or ad networks uses technologies like cookies, JavaScript, or Web Beacons that are used in their respective advertisements and links that appear on Logo Wine, which are sent directly to users' browser. They automatically receive your IP address when this occurs. These technologies are used to measure the effectiveness of their advertising campaigns and/or to personalize the advertising content that you see on websites that you visit.
+
+Note that Logo Wine has no access to or control over these cookies that are used by third-party advertisers.
+
+Third Party Privacy Policies
+Logo Wine's Privacy Policy does not apply to other advertisers or websites. Thus, we are advising you to consult the respective Privacy Policies of these third-party ad servers for more detailed information. It may include their practices and instructions about how to opt-out of certain options. You may find a complete list of these Privacy Policies and their links here: Privacy Policy Links.
+
+You can choose to disable cookies through your individual browser options. To know more detailed information about cookie management with specific web browsers, it can be found at the browsers' respective websites. What Are Cookies?
+
+Children's Information
+Another part of our priority is adding protection for children while using the internet. We encourage parents and guardians to observe, participate in, and/or monitor and guide their online activity.
+
+Logo Wine does not knowingly collect any Personal Identifiable Information from children under the age of 13. If you think that your child provided this kind of information on our website, we strongly encourage you to contact us immediately and we will do our best efforts to promptly remove such information from our records.
+
+Online Privacy Policy Only
+Our Privacy Policy created at GDPRPrivacyPolicy.net) applies only to our online activities and is valid for visitors to our website with regards to the information that they shared and/or collect in Logo Wine. This policy is not applicable to any information collected offline or via channels other than this website. Our GDPR Privacy Policy was generated from the GDPR Privacy Policy Generator.
+
+Consent
+By using our website, you hereby consent to our Privacy Policy and agree to its terms.
   <p class="read-the-docs">Click on the Vite and Vue logos to learn more</p>
 </template>
 

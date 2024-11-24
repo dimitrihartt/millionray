@@ -7,8 +7,8 @@
 
 <template>
   <Header />
-  <HelloWorld msg="Welcome to MillionRay!!"/>
   <AssistentAi />
+  <HelloWorld msg="Welcome to MillionRay!!"/>
   <Terms />
 </template>
 
